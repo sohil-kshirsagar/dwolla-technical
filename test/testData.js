@@ -15,7 +15,7 @@ testData = {
       input: { lat: 37.3382082, lon: -121.8863286 }
     },
     stringCityWeather: {
-      input: 'San Jose',
+      input: 'San Jose'
     }
   },
   Mumbai: {
@@ -34,7 +34,7 @@ testData = {
       input: { lat: 19.0759837, lon: 72.8776559 }
     },
     stringCityWeather: {
-      input: 'Mumbai',
+      input: 'Mumbai'
     }
   },
   DesMoines: {
@@ -53,7 +53,7 @@ testData = {
       input: { lat: 41.5868353, lon: -93.6249593 }
     },
     stringCityWeather: {
-      input: 'Des Moines',
+      input: 'Des Moines'
     }
   },
 };
