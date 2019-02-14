@@ -15,3 +15,6 @@ Technical problem for the Software Engineering internship interview process at D
 - Node-Fetch - https://www.npmjs.com/package/node-fetch
 - Chai - https://www.npmjs.com/package/chai
 - Mocha - https://www.npmjs.com/package/mocha
+## Travis CI 
+https://travis-ci.com/sohil-kshirsagar/dwolla-technical/ <br /> <br />
+[![Build Status](https://travis-ci.com/sohil-kshirsagar/dwolla-technical.svg?branch=master)](https://travis-ci.com/sohil-kshirsagar/dwolla-technical)
