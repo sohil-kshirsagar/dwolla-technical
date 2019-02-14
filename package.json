@@ -1,0 +1,17 @@
+{
+  "name": "dwolla-technical",
+  "version": "1.0.0",
+  "description": "Solution to technical problem during Dwolla interview process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sohil Kshirsagar",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "inquirer": "^6.2.2",
+    "mocha": "^5.2.0",
+    "node-fetch": "^2.3.0"
+  }
+}
