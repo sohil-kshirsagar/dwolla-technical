@@ -29,7 +29,7 @@ async function getPredictions(input) {
   /*
   Parameter: user's text input to "Where are you?"
   Uses the Google Autocomplete API
-  Returns: a list of 5 most likely cities (objects) based on text input
+  Returns: a list of most likely cities (objects) based on text input
   */
   const baseUrl = 'https://maps.googleapis.com/maps/api/place/autocomplete/json?&types=(cities)&key=' + googleKey;
   let requestUrl = baseUrl + "&types=(cities)&input=" + input;

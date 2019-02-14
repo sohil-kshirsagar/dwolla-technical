@@ -1,8 +1,7 @@
 testData = {
   SanJose: {
     getPredictions: {
-      input: 'San Jose',
-      expected: 5
+      input: 'San Jose'
     },
     getListOfCityNames: {
       input: 'San Jose',
@@ -21,8 +20,7 @@ testData = {
   },
   Mumbai: {
     getPredictions: {
-      input: 'Mumbai',
-      expected: 5
+      input: 'Mumbai'
     },
     getListOfCityNames: {
       input: 'Mumbai',
@@ -41,8 +39,7 @@ testData = {
   },
   DesMoines: {
     getPredictions: {
-      input: 'Des Moines',
-      expected: 5
+      input: 'Des Moines'
     },
     getListOfCityNames: {
       input: 'Des Moines',
